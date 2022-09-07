@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="test_package",
-    packages=["test"],
+    packages=["test_package"],
     description="Hello world packaging",
     version="0.1",
     url="https://github.com/lamasne/test_package",
